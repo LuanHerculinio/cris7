@@ -1,0 +1,56 @@
+<html lang="pt-br">
+
+
+
+<head>
+    <link rel="stylesheet" href="style.CSS"/>
+    <title>O GOAT</title>
+</head>
+
+
+
+<body>
+
+<Header>CRISTIANO RONALDO7</Header>
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1>CR7</h1> 
+<p><div id="GOLS"></div></p>
+</div>
+
+
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ETQUINmZLUo?si=UL-XzLGgncUjF0rG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+
+<Section class="categoria">
+    <H2>O GOAT EM AÇÃO</H2>
+    <div class="categoria-videos">
+    
+        
+            
+            <a href="https://www.youtube.com/watch?v=KUwaNB12OBc">
+                <img src=https://youtu.be/mmeLCAP74KA?si=rNdBk9zREr9AT1AP" /> 
+                 
+                
+                <a href="https://www.youtube.com/watch?v=sp6JUYv9m-w">
+                    <img src="https://youtu.be/ttDbSrXnCH4?si=LHs5obfBDd-eJN-t" /> 
+
+
+                    <a href="https://www.youtube.com/watch?v=h92mb5GzCFY">
+                        <img src="https://youtu.be/OT5Sht84XJs?si=y2mOFIlgnjweqxPl" /> 
+                    
+                        
+                      <a href="https://www.youtube.com/watch?v=3dai8ngJYAU&t=2s">
+                        <img src="https://youtu.be/YTu-XZfI3Eg?si=VknZRTzXJ__7VmQ3" /> 
+                        
+
+    </div>
+</Section>
+
+
+</body>
+
+
+</html>
